@@ -1,89 +1,76 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Mallory Bundy's CV
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Mallory Bundy
+BYU-Idaho Student, Asset Management Analyst
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="bundymallory@gmail.com">Email</a>
+| <a href="linkedin.com/in/mallory-bundy">Linkedin</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
+
+
+### Skills
+
+- Computer Skills: Python (Intermediate), R studios (Intermediate), SQL (Beginning), Excel (Harvard Certified) 
+- Fluent in Portuguese 
+ 
+
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+__Brigham Young University-Idaho__
+`Expected Apr 2024`
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+- BS: Economics, Minor: Data Science
 
 
-## Related Experience
+## Experience
+__Asset Management__, Salt Lake City, UT 
+`May 2022-Present`
 
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Built and managed financial models in Excel. Models were used for quarterly Capital Partners reports.  
+- Automated data using Python, SQLite, and PowerBI to compare market prices.  
+- Analyzed financial statements to project future NOI Margins 
 
 
-## Service and Work History
+__Economics Teaching Assistant__, Rexburg ID 
+`Apr 2021 - Dec2022`
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Taught university classes and review sessions to 60+ students per semester. The review sessions led to more student engagement. 
+- Tutored struggling students based on their individual assessments, resulting in a 20% average increase in test scores.  
+- Evaluated student work and provided constructive feedback in Microeconomic, Public Economics, and Law and Economics assessments.  
 
+__English Business Teacher__, Mata Grosso, Brazil 
+`Feb 202 - Present`
 
-`2023-2025`
-__Service Missionary__, South Africa
+- Taught English to Brazilian high-profile business leaders; increase the rate at which students progressed from beginner to advanced levels and received certifications in English fluency and business etiquette.  
+- Created trainings for struggling Becourse teachers, enhanced struggling teachers’ lesson plans, student participation, and performance.  
+- Restructured business and academic role-play interviews, I observed increased student engagement and investment in their language skills. 
+- Translated and edited academic journals, resumes, and cover letters to prepare 25 students for business and academic applications in the US.   
 
+## Leadership, Activies, Volunteer
+__Full-time Volunteer__, The Church of Jesus Christ of Latter-day Saints, Bahia, Brazil 
+`Jan 2018 - Jun 2019`
+
+- Analyzed team statistics to determine weekly training meeting topics and teaching methods, which assisted in achieving group improvement goals 
+- Conducted, planned, and presented at meetings for groups of 36 volunteers on ethics, communication, and teaching skills 
+
+__Business Committee Volunteer__, Youthlinc, Iquitos, Peru 
+`Jan 2018 - Jun 2019`
+
+- Instructed 16 village men to write P&L statements that led them to receive small business loans 
+- Taught English, Business, and Economics lessons in a Peruvian village 
+- Supplied families in the village with health kits 
+
+### Awards
+
+`1669`
+YMCA Volunteer of the year 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: Apr 2024 -->
